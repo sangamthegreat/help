@@ -1,0 +1,6 @@
+{
+  "name": "Winter Arc: BSc CSIT 2nd Sem 40-Day Mastery Tracker",
+  "description": "Notion-style Winter Arc habit tracker and 40-day intensive syllabus sprint for TU BSc CSIT 2nd Semester with Past Year Questions (PYQs) from Hamro CSIT & Easy CSIT.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
